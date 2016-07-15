@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6DE40B79BBD81A0A2D689FF0102ABAAD2B81A3F2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6DE40B79BBD81A0A2D689FF0102ABAAD2B81A3F2" : 0,
+    "BF62986E5EB9CC285921537013D3F1A0F519BEFB" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F7E04E0A-74E5-4D7A-AF32-F7B18365E7E8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6DE40B79BBD81A0A2D689FF0102ABAAD2B81A3F2" : "TYMultimedia\/",
+    "BF62986E5EB9CC285921537013D3F1A0F519BEFB" : "..\/.."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TYMultimedia",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TYMultimedia.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/troylik865\/TYMultimedia.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6DE40B79BBD81A0A2D689FF0102ABAAD2B81A3F2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/troylik865\/APPSecurity.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BF62986E5EB9CC285921537013D3F1A0F519BEFB"
+    }
+  ]
+}
